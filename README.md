@@ -1,4 +1,4 @@
-# Veeam.FolderSynchronizer
+# FolderSynchronizer
 
 C# console application implementing one-way folder synchronization.
 
